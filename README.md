@@ -30,7 +30,6 @@
 
 **Язык программирования**
 
-![C#](https://img.shields.io/badge/-C_Sharp-0000FF?style=flat-square&logo=csharp)
-
-![XAML](https://img.shields.io/badge/-XAML-0000FF?style=flat-square&logo=xaml)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-%23239120.svg?style=for-the-badge&logo=xaml&logoColor=white)
 
